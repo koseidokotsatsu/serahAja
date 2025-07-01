@@ -1,0 +1,73 @@
+/* General Layout */
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  border-radius: 0.75rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.card img {
+  height: 60px;
+  object-fit: contain;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+/* Sidebar Styling */
+.bg-light {
+  background-color: #ffffff !important;
+}
+
+.btn-outline-primary {
+  text-align: left;
+}
+
+/* Cart Styling */
+input[type="text"]:read-only {
+  background-color: #f1f1f1;
+}
+
+#cart-items .input-group {
+  max-width: 120px;
+}
+
+/* Profile Section */
+img.rounded-circle {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+
+/* Promo Section */
+select.form-select,
+input.form-control {
+  border-radius: 0.5rem;
+}
+
+.list-group-item {
+  border: none;
+  background-color: transparent;
+}
+
+/* Button Enhancements */
+.btn-warning {
+  border-radius: 0.5rem;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(255, 193, 7, 0.3);
+}
+
+.btn-outline-success {
+  border-radius: 1.5rem;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.85rem;
+}

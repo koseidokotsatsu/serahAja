@@ -1,0 +1,19 @@
+Chicken Burger | food.png | 15000 | 7 | food
+Fried Rice | food.png | 15000 | 8 | food
+Grilled Sandwich | food.png | 18000 | 0 | food
+French Fries | food.png | 12000 | 0 | food
+Nasi Goreng Spesial | food.png | 22000 | 5 | food
+Chicken Katsu | food.png | 20000 | 7 | food
+Beef Teriyaki | food.png | 25000 | 3 | food
+Espresso | hot-beverage.png | 13000 | 13 | coffee
+Americano | hot-beverage.png | 15000 | 9 | coffee
+Cappuccino | hot-beverage.png | 16000 | 8 | coffee
+Caramel Macchiato | hot-beverage.png | 17000 | 12 | coffee
+Mocha Latte | hot-beverage.png | 18000 | 9 | coffee
+Hazelnut Latte | hot-beverage.png | 19000 | 6 | coffee
+Vanilla Latte | soda.png | 19000 | 5 | non-coffee
+Matcha Latte | soda.png | 20000 | 7 | non-coffee
+Red Velvet | soda.png | 20000 | 9 | non-coffee
+Strawberry Smoothie | soda.png | 21000 | 4 | non-coffee
+Taro Latte | soda.png | 20000 | 5 | non-coffe
+Blueberry Fizz | soda.png | 22000 | 3 | non-coffee

@@ -1,0 +1,11 @@
+=== RECEIPT ===
+Date: 01/07/2025 20:53:34
+Order Number: 250701
+------------------------------
+Grilled Sandwich      1 x Rp 18.000 Rp 18.000
+------------------------------
+Sub Total:                   Rp 18.000
+Tax:                          Rp 1.800
+Total:                       Rp 19.800
+==============================
+Thank you for your purchase!
